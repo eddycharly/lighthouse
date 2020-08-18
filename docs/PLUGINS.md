@@ -12,25 +12,25 @@
 | cherrypickunapproved  | `cherry_pick_unapproved`  | TODO |
 | dog                   |                           | TODO |
 | help                  |                           | TODO |
-| hold                  |                           | [docs](./plugins/hold.md) |
+| hold                  |                           | [docs](./plugins/hold.md)     |
 | label                 | `label`                   | TODO |
-| lgtm                  | `lgtm`                    | TODO |
+| lgtm                  | `lgtm`                    | [docs](./plugins/lgtm.md)     |
 | lifecycle             |                           | TODO |
 | milestone             |                           | TODO |
 | milestonestatus       |                           | TODO |
 | override              |                           | TODO |
 | owners-label          |                           | TODO |
 | pony                  |                           | TODO |
-| shrug                 |                           | [docs](./plugins/shrug.md) |
+| shrug                 |                           | [docs](./plugins/shrug.md)    |
 | sigmention            | `sigmention`              | TODO |
-| size                  | `size`                    | [docs](./plugins/size.md) |
+| size                  | `size`                    | [docs](./plugins/size.md)     |
 | skip                  |                           | TODO |
 | stage                 |                           | TODO |
 | trigger               | `triggers`                | TODO |
 | updateconfig          | `config_updater`          | TODO |
-| welcome               | `welcome`                 | [docs](./plugins/welcome.md) |
-| wip                   |                           | [docs](./plugins/wip.md)  |
-| yuks                  |                           | [docs](./plugins/yuks.md) |
+| welcome               | `welcome`                 | [docs](./plugins/welcome.md)  |
+| wip                   |                           | [docs](./plugins/wip.md)      |
+| yuks                  |                           | [docs](./plugins/yuks.md)     |
 
 ## Plugins configuration file (plugins.yaml)
 
